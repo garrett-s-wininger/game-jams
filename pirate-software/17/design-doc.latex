@@ -1,0 +1,22 @@
+\documentclass{article}
+\author{Garrett Wininger}
+\title{
+	A Chance at Salvation \\
+	\large A Pirate Software Game Jam 17 Submission\footnote{
+		This document is \emph{not} to be submitted directly; doing so would be a
+		violation of the submission terms. As such, translation to a Google Doc is
+		required for the final package.}}
+\date{July 2025}
+\begin{document}
+	\maketitle
+	\section{Introduction}
+	\underline{A Chance at Salvation} is a first-person mech-combat shooter designed
+	to test the player's skills and abilities to see how long they can last before they
+	are ultimately overrun by a relentless horde of enemies.
+	\section{Inspiration}
+	\section{Platform Target(s)}
+	\section{Backstory and Plot}
+	\section{Basic Mechanics}
+	\section{Progression}
+	\section{Art Direction}
+\end{document}

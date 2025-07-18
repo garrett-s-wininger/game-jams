@@ -1,0 +1,4 @@
+# Design Document Intermediates and Outputs
+*.aux
+*.log
+*.pdf
